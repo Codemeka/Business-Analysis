@@ -29,7 +29,7 @@ We came up with mindmap solutions for the following;
 ![Process Map](https://user-images.githubusercontent.com/100303051/218995618-e73ea728-0c3a-40c7-9034-1832e6b2192e.PNG)
 
 We were able to provoide insights into the health buddy app process, brainstorm ideas for process improvement, increase communication and provide process documentation.
-We were also able identify bottlenecks, repetition and delays.
+We were also able to identify bottlenecks, repetition and delays.
 The process mapping was divided into two sections; the app user and the administrator.
 
 # Health Buddy App Prototype
