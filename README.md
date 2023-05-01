@@ -1,4 +1,5 @@
-# Business-Analysis for Health Buddy App
+# BUSINESS ANALYSIS FOR HEALTH BUDDY APP
+
 # Health Buddy app Business Canvas Model
 ![Health buddy 1](https://user-images.githubusercontent.com/100303051/218985306-2d04ef19-5032-4f65-8a2e-34b9b706746e.PNG)
 ![Health buddy 2](https://user-images.githubusercontent.com/100303051/218985581-e8bf2dd8-f443-4a09-95d2-84cc23b5379d.PNG)
@@ -28,7 +29,7 @@ We came up with mindmap solutions for the following;
 # Process Mapping Of Health Buddy App.
 ![Process Map](https://user-images.githubusercontent.com/100303051/218995618-e73ea728-0c3a-40c7-9034-1832e6b2192e.PNG)
 
-We were able to provoide insights into the health buddy app process, brainstorm ideas for process improvement, increase communication and provide process documentation.
+We were able to provide insights into the health buddy app process, brainstorm ideas for process improvement, increase communication and provide process documentation.
 We were also able to identify bottlenecks, repetition and delays.
 The process mapping was divided into two sections; the app user and the administrator.
 
